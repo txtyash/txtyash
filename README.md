@@ -1,5 +1,3 @@
-# Yash Shinde
-
 **I have left Github and moved to Codeberg** https://codeberg.org/textyash
 
 Backend engineer based in Pune, India. Focused on Go and distributed systems.
