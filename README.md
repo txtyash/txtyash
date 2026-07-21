@@ -1,8 +1,6 @@
-**I have left Github and moved to Codeberg** https://codeberg.org/textyash
-
 Backend engineer based in Pune, India. Focused on Go and distributed systems.
 
-Currently building [ShowStarter](https://showstarter.in) — an event hosting platform engineered around production backend patterns: transactional outbox, OTP auth, and database-enforced business rules.
+Currently building [ShowStarter](https://showstarter.app) — an event hosting platform engineered around production backend patterns: transactional outbox, OTP auth, and database-enforced business rules.
 
 **Stack:** Go · PostgreSQL · Kafka · Docker · Svelte · Linux
 
